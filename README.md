@@ -1,2 +1,2 @@
-# mentoria-challenges
+# mentoring-challenges
 DASAFIO GIT
